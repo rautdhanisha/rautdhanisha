@@ -3,7 +3,14 @@
 Data Analyst / Data Engineer, building pipelines, dashboards, and data quality tools.
 
 ---
+<div align="center">
 
+
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
+
+<br><br>
+
+</div>
 ### 📄 What am I up to? Check out my [Portfolio](#) !
 
 - 🎓 MS in Computer Science from Stevens Institute of Technology (2024 – 2026)
