@@ -6,13 +6,12 @@ Data Analyst / Data Engineer, building pipelines, dashboards, and data quality t
 
 ### 📄 What am I up to? Check out my [Portfolio](#) !
 
-- 🎓 Pursuing an **MS in Computer Science** at [Stevens Institute of Technology](https://www.stevens.edu/) (Sep 2024 – May 2026)
+- 🎓 MS in Computer Science from Stevens Institute of Technology (2024 – 2026)
 - 🎓 **BE in Computer Engineering** from the University of Mumbai
 - 💼 Currently a **Data Analyst Intern** at Community Dreams Foundation
 - 🔍 Actively looking for **Data Analyst / Data Engineering** roles in the Dallas, TX area
 - 📝 Published an **IEEE paper** on deep learning-based hate speech/text classification (ICICCS 2023)
-- 🛠️ Currently building an open-source **CSV Data Quality Checker** with a project team
-- 🏗️ Also built an **NYC Transit Reliability Lakehouse** (bronze-silver-gold architecture) and an **NYC 311 ETL pipeline**
+
 
 ---
 
