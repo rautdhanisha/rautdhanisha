@@ -9,7 +9,7 @@ Data Analyst / Data Engineer, building pipelines, dashboards, and data quality t
 <br><br>
 
 </div>
-📄 What am I up to? Check out my [Portfolio](#) !
+📄 What am I up to? 
 
 - 🎓 MS in Computer Science from Stevens Institute of Technology (2024 – 2026)
 - 🎓 **BE in Computer Engineering** from the University of Mumbai
