@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Data Analyst / Data Engineer, building pipelines, dashboards, and data quality tools.
 <!--
 **rautdhanisha/rautdhanisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
