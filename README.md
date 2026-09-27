@@ -13,7 +13,7 @@ Data Analyst / Data Engineer, building pipelines, dashboards, and data quality t
 - 🎓 MS in Computer Science from Stevens Institute of Technology (2024 – 2026)
 - 🎓 **BE in Computer Engineering** from the University of Mumbai
 - 💼 Currently a **Data Analyst Intern** at Community Dreams Foundation
-- 🔍 Actively looking for **Data Analyst / Data Engineering** roles in the Dallas, TX area
+- 🔍 Actively looking for **Data Analyst / AI Engineer** roles in the Dallas, TX area
 - 📝 Published an **IEEE paper** on deep learning-based hate speech/text classification (ICICCS 2023)
 
 
